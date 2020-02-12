@@ -1,0 +1,43 @@
+<style>    
+body { color: #666666;
+        Background-color: #ffffff;
+        font-family: sans-serif;
+        text-align: center}
+
+header { color: #ffffff;
+        Background-color: #000033;
+        font-family: serif;
+        text-align: center}
+
+h1 {line-height: 200%;
+    text-align: center}
+
+h2 {color: #3399cc;
+    font-family: serif;
+    text-align: center}
+dt {color: #000033;
+    font-style: 1.2em;
+    font-weight: bold}
+ul {list-style-position:inside}
+
+div {color: #000033;
+    text-align: center}
+
+#resort {color: #000033;
+        font-weight: bold;
+        font-style: 1.2em}
+
+#wrapper {width: 80%;
+         margin-left: auto;
+         margin-right: auto} 
+
+nav {background-color: #90C7E3;
+    font-weight: bold;
+    text-align: center}
+
+footer {font-size: 0.70em;
+        text-align: center;
+        font-style: italic}
+
+<style>
+
